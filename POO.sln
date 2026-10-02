@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{C0D6E435-6958-4BA7-8B09-E21569194F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO.Testes", "POO.Testes\POO.Testes.csproj", "{FB777151-6572-434C-A2CB-14C1F63000F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D6E435-6958-4BA7-8B09-E21569194F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D6E435-6958-4BA7-8B09-E21569194F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D6E435-6958-4BA7-8B09-E21569194F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D6E435-6958-4BA7-8B09-E21569194F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB777151-6572-434C-A2CB-14C1F63000F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB777151-6572-434C-A2CB-14C1F63000F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB777151-6572-434C-A2CB-14C1F63000F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB777151-6572-434C-A2CB-14C1F63000F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
